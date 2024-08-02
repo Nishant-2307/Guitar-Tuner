@@ -1,19 +1,3 @@
-/*
- * Arduino Guitar Tuner
- * by Nicole Grimwood
- *
- * For more information please visit:
- * https://www.instructables.com/id/Arduino-Guitar-Tuner/
- *
- * Based upon:
- * Arduino Frequency Detection
- * created October 7, 2012
- * by Amanda Ghassaei
- *
- * This code is in the public domain. 
-*/
-
-
 //data storage variables
 byte newData = 0;
 byte prevData = 0;
